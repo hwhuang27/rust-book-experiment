@@ -1,0 +1,1 @@
+C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\sandbox\target\debug\sandbox.exe: C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\sandbox\src\main.rs C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\sandbox\src\temps.rs
