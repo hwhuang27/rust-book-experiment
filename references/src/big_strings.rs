@@ -1,7 +1,9 @@
-fn big_strings() {
+fn main() {
     let mut dst = vec!["one".to_string(), "two".to_string(), "three".to_string()];
     let src = &[String::from("fourteen")];
     add_big_strings(&mut dst, src);
+    
+    println!("big strings");
 
 }
 

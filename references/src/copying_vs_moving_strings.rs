@@ -1,4 +1,4 @@
-fn some_strings() {
+fn main() {
     let mut v: Vec<String> = vec![String::from("Hello world")];
     
     // method 1: use an immutable/shared ref.

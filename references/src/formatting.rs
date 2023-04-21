@@ -1,4 +1,4 @@
-fn formatting() {
+fn main() {
     let mut a = [0, 1, 2, 3];
     let x = &mut a[0];
     *x += 1;

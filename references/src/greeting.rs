@@ -1,4 +1,4 @@
-fn greeting() {
+fn main() {
     let m1 = String::from("hello");
     let m2 = String::from("world");
     greet(&m1, &m2);
