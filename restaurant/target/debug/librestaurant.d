@@ -1,0 +1,1 @@
+C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\restaurant\target\debug\librestaurant.rlib: C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\restaurant\src\front_of_house\hosting.rs C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\restaurant\src\front_of_house.rs C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\restaurant\src\lib.rs
