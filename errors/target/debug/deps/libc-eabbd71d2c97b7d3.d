@@ -1,0 +1,9 @@
+c:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\errors\target\debug\deps\libc-eabbd71d2c97b7d3.rmeta: C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\lib.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\macros.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\fixed_width_ints.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\windows\mod.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\windows\msvc\mod.rs
+
+c:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\errors\target\debug\deps\libc-eabbd71d2c97b7d3.d: C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\lib.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\macros.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\fixed_width_ints.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\windows\mod.rs C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\windows\msvc\mod.rs
+
+C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\lib.rs:
+C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\macros.rs:
+C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\fixed_width_ints.rs:
+C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\windows\mod.rs:
+C:\Users\DNucl.DESKTOP-GBL0SEB\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.142\src\windows\msvc\mod.rs:
