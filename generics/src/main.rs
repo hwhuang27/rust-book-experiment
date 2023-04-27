@@ -1,33 +1,28 @@
+
+// example that uses generic types, traits, and lifetimes
 use std::fmt::Display;
 
-struct Pair<T> {
-    x: T,
-    y: T,
-}
-
-impl<T> Pair<T> {
-    fn new(x: T, y: T) -> Self {
-        Self { x, y }
-    }
-}
-
-impl<T: Display + PartialOrd> Pair<T> {
-    fn cmp_display(&self) {
-        if self.x >= self.y {
-            println!("The largest member is x = {}", self.x);
-        } else {
-            println!("The largest member is y = {}", self.y);
-        }
+fn longest_with_an_announcement<'a, T>(
+    x: &'a str,
+    y: &'a str,
+    ann: T,
+) -> &'a str
+where
+    T: Display,
+{
+    println!("Announcement! {}", ann);
+    if x.len() > y.len() {
+        x
+    } else {
+        y
     }
 }
 
 fn main() {
-    let pair_int = Pair::new(3, 4);
-    println!("{}, {}", pair_int.x, pair_int.y);
-    pair_int.cmp_display();
+    let a = "this string";
+    let b = "that string haha";
+    let c: String = String::from("this is my announcement");
 
-    let pair_str = Pair::new("hello".to_string(), "world".to_string());
-    println!("{}, {}", pair_str.x, pair_str.y);
-    pair_str.cmp_display();
-
+    let res = longest_with_an_announcement(&a, &b, c);
+    println!("{}", res);
 }
