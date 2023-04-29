@@ -1,0 +1,1 @@
+C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\minigrep\target\debug\minigrep.exe: C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\minigrep\src\lib.rs C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\minigrep\src\main.rs
