@@ -1,0 +1,1 @@
+C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\blog\target\debug\blog.exe: C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\blog\src\lib.rs C:\Users\DNucl.DESKTOP-GBL0SEB\proj-rust\rust-book\blog\src\main.rs
